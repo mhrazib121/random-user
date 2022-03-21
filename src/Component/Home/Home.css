@@ -1,0 +1,6 @@
+.search-result{
+    /* display: none; */
+}
+button:focus.search-result{
+    opacity: 0;
+}
